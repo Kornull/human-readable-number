@@ -21,7 +21,7 @@ module.exports = function toReadable(numb) {
         18: 'eighteen',
         19: 'nineteen'
     };
-    let tenList = {
+    const tenList = {
         1: 'ten',
         2: 'twenty',
         3: 'thirty',
